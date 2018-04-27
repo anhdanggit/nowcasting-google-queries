@@ -23,6 +23,8 @@ Incremental Fit Plot of Housing Sales, by adding respectively:
 * Trend
 * Seasonality
 * First and Second Important Google Keywords
+
+
 ![alt text](https://github.com/maianhdang/nowcasting_google_queries/blob/master/graphs/nowcast_google.gif)
 
 ## High-dimentsional Google Queries
